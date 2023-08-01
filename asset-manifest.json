@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PreEntrega1Riviere-Eric-React/static/css/main.3e9eba79.css",
+    "main.js": "/PreEntrega1Riviere-Eric-React/static/js/main.4787a748.js",
+    "static/media/cyclist.gif": "/PreEntrega1Riviere-Eric-React/static/media/cyclist.8821192ac6950b3646dd.gif",
+    "index.html": "/PreEntrega1Riviere-Eric-React/index.html",
+    "static/media/cart.svg": "/PreEntrega1Riviere-Eric-React/static/media/cart.fa7c2b08a67f837a84f225c2b57fd9d2.svg",
+    "static/media/favicon.ico": "/PreEntrega1Riviere-Eric-React/static/media/favicon.448a31cab30e41fc2272.ico",
+    "main.3e9eba79.css.map": "/PreEntrega1Riviere-Eric-React/static/css/main.3e9eba79.css.map",
+    "main.4787a748.js.map": "/PreEntrega1Riviere-Eric-React/static/js/main.4787a748.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e9eba79.css",
+    "static/js/main.4787a748.js"
+  ]
+}
